@@ -1,0 +1,25 @@
+/* Challenge 04: style your first card. */
+body {
+  background-color : #afeeee;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  /* TODO: background-color, color, text-align */
+}
+.card {
+  background-color: white;
+  width: 250px;
+  padding: 20px;
+  margin: 30px auto;
+  border: 2px solid #94bde8;
+
+}
+h1 {
+  color: #afeeee;
+}
+/* TODO: make a .card rule using background-color, width, padding, margin and border */
+a {
+  color: #FF0000;
+}
+/* TODO: choose a color for h1 */
+
+/* TODO: choose a color for the link (a) */
